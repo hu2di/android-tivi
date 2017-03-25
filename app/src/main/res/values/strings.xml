@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">TV: ON</string>
+
+    <string name="live">Live TV</string>
+    <string name="favorite">Yêu thích</string>
+    <string name="about">Thông tin</string>
+    <string name="share">Chia sẻ</string>
+    <string name="update">Cập nhật</string>
+    <string name="updating">Đang cập nhật dữ liệu kênh truyền hình</string>
+    <string name="updated">Cập nhật thành công</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="title">Title</string>
+    <string name="cancel">Hủy bỏ</string>
+    <string name="ok">Đồng ý</string>
+    <string name="exit">Thoát</string>
+
+    <string name="description">Ứng dụng xem truyền hình miễn phí trên điện thoại di động</string>
+    <string name="version">Version 1.0</string>
+    <string name="review_app">Vote 5 sao</string>
+
+    <string name="loading">Đang tải</string>
+
+    <string name="swipe_refresh">Vuốt xuống để tải lại kênh nếu bị giật!</string>
+    <string name="addToFavorite">Đã thêm kênh vào danh sách yêu thích!</string>
+    <string name="removeFromFavorite">Đã xóa kênh khỏi danh sách yêu thích!</string>
+    <string name="not_success">Thay đổi không thành công!</string>
+
+    <string name="check_internet">Kiểm tra lại kết nối internet!</string>
+
+    <string name="cat0">Truyền Hình Việt Nam</string>
+    <string name="cat1">Truyền Hình KTS VTC</string>
+    <string name="cat2">Truyền Hình VTVCab</string>
+    <string name="cat3">Truyền Hình HTV</string>
+    <string name="cat4">Kênh Địa Phương</string>
+    <string name="cat5">Kênh Nước Ngoài</string>
+
+    <string name="send_to">Chia sẻ</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="schedule">Đặt lịch</string>
+    <string name="cancel_schedule">Bạn muốn hủy đặt lịch</string>
+    <string name="canceled">Hủy thành công</string>
+    <string name="schedule_success">Đặt lịch thành công</string>
+    <string name="note">Ghi chú</string>
+
+</resources>
